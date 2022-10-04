@@ -1,0 +1,14 @@
+{
+   
+    "Color-Theme":"background-color:#590696;",
+    "Screen-Size":{"Width":800,"Height":650},
+    "Logo":{
+        "Font":"font-size: 15px;  color: grey; font-family: 'Trebuchet MS', sans-serif; "
+    },
+    "Button":"border:1px solid white;border-radius: 5%;font-size:20px;font-weight:bold; font-family: 'Trebuchet MS', sans-serif; background-color:#fafafa; padding:0px 25px;",
+    "Button-text":"font-size:15px;font-weight:bold; font-family: 'Trebuchet MS', sans-serif; color:#F9F9F9;",
+    "QcheckBox":"color:green;font-size:14px;font-weight:bold;font-family:'Trebuchet MS', sans-serif;",
+    "NoteFont":"background-color:#fafafa;border:1px solid white;border-radius:4%;font-weight:bold;font-size:20px;font-family: 'Trebuchet MS', sans-serif;",
+    "about":"border:1px solid; background-color:white; padding:0px 0px 470px 120px;",
+    "about-text":"font-size:20px;font-family: 'Trebuchet MS', sans-serif; background-color:white;"
+}   
