@@ -1,3 +1,5 @@
+# there is main app here and it start to here
+
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
